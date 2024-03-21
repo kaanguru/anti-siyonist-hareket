@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "Anti-Siyonist Hareket"
-  text: "Siyonizim işgaline karşı direniş hareketi için"
-  tagline: Adımı bacağıma yaz anne!
+  text: "Siyonizim işgaline karşı direniş hareketi"
+  tagline: Özgür Filistin!
   actions:
     - theme: brand
       text: Boykot Neden Gerekli
@@ -15,7 +15,7 @@ hero:
       link: /etnik-temizlik/
 
 features:
-  - title: Feature A
+  - title: Adımı bacağıma yaz anne!
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit

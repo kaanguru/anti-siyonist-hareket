@@ -2,14 +2,20 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
+  lang: "tr-TR",
   title: "Anti-Siyonist Hareket",
   description: "Siyonizim işgaline karşı direniş hareketi için kaynak sitesi",
   srcDir: "./src",
   themeConfig: {
+    docFooter: {
+      prev: "Önceki",
+      next: "Sonraki",
+    },
+    returnToTopLabel: "Yukarı dön",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "Soru ve Cevaplar", link: "/soru-ve-cevaplar" },
     ],
 
     sidebar: [
