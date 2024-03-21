@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "Anti-Siyonist Hareket",
   description: "Siyonizim işgaline karşı direniş hareketi için kaynak sitesi",
+  srcDir: "./src",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
