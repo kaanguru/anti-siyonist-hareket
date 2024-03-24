@@ -13,6 +13,7 @@
   "author": "Cem Kaan Kösalı",
   "license": "ISC",
   "devDependencies": {
-    "vitepress": "1.0.0-rc.45"
+    "vitepress": "1.0.0-rc.45",
+    "vue": "^3.4.21"
   }
 }

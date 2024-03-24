@@ -3,6 +3,8 @@ title: Islam Deklorasyonu
 lang: tr-TR
 ---
 
+## BİSMİLLAHİRRAHMANİRRAHİM
+
 [[toc]]
 
 >[!IMPORTANT] HEDEFİMİZ
@@ -10,8 +12,6 @@ lang: tr-TR
 
 >[!WARNING] SLOGANlMIZ
 >İnanmak ve mücadele etmek
-
-# BİSMİLLAHİRRAHMANİRRAHİM
 
 Bugün kamuoyuna sunduğumuz bildiri, yabancılara
 ve şüphe içinde olanlara, İslam'ın şu veya bu sistemin, şu veya bu düşünce grubunun üzerindeki üstünlüğünü ispatlayacak bir metin değildir.

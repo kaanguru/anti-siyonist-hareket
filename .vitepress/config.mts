@@ -7,10 +7,6 @@ export default defineConfig({
   description: "Siyonizim işgaline karşı direniş hareketi için kaynak sitesi",
   srcDir: "./src",
   themeConfig: {
-    docFooter: {
-      prev: "Önceki",
-      next: "Sonraki",
-    },
     returnToTopLabel: "Yukarı dön",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
@@ -20,14 +16,23 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: "Examples",
+        text: "Belgeler",
         items: [
-          { text: "Markdown Examples", link: "/markdown-examples" },
-          { text: "Runtime API Examples", link: "/api-examples" },
+          { text: "İslam Deklorasyonu", link: "/islam-deklorasyonu" },
+          { text: "Amerika'ya Mektup", link: "/amerikaya-mektup" },
         ],
       },
     ],
 
     socialLinks: [{ icon: "github", link: "https://github.com/vuejs/vitepress" }],
+    outlineTitle: "Bu sayfada",
+    footer: {
+      copyright: "Copyright © 2023-present Cem Kaan Kosali",
+      message: "MIT Lisansı altında yayınlanmıştır.",
+    },
+    docFooter: {
+      prev: "Önceki",
+      next: "Sonraki",
+    },
   },
 });
