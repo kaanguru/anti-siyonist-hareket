@@ -77,6 +77,8 @@
   --vp-c-danger-2: var(--vp-c-red-2);
   --vp-c-danger-3: var(--vp-c-red-3);
   --vp-c-danger-soft: var(--vp-c-red-soft);
+  --vp-nav-logo-height: 116px;
+  --vp-nav-height: 120px;
 }
 
 /**

@@ -7,10 +7,14 @@ export default defineConfig({
   description: "Siyonizim işgaline karşı direniş hareketi için kaynak sitesi",
   srcDir: "./src",
   themeConfig: {
+    logo: { light: "sembol-light.webp", dark: "sembol-dark.webp" },
+    siteTitle: false,
+    darkModeSwitchLabel: "Koyu mod",
+    lightModeSwitchTitle: "Aydınlık mod",
     returnToTopLabel: "Yukarı dön",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "Home", link: "/" },
+      { text: "Ana Sayfa", link: "/" },
       { text: "Soru ve Cevaplar", link: "/soru-ve-cevaplar" },
     ],
 
