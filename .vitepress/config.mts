@@ -7,8 +7,8 @@ export default defineConfig({
   description: "Siyonizim işgaline karşı direniş hareketi için kaynak sitesi",
   srcDir: "./src",
   themeConfig: {
-    logo: { light: "sembol-light.webp", dark: "sembol-dark.webp" },
-    siteTitle: false,
+    logo: { light: "/img/sembol-light.webp", dark: "/img/sembol-dark.webp" },
+    siteTitle: "Anti-Siyonist Hareket",
     darkModeSwitchLabel: "Koyu mod",
     lightModeSwitchTitle: "Aydınlık mod",
     returnToTopLabel: "Yukarı dön",
@@ -39,4 +39,9 @@ export default defineConfig({
       next: "Sonraki",
     },
   },
+  head: [
+    ["link", { rel: "preconnect", href: "https://fonts.googleapis.com" }],
+    ["link", { rel: "preconnect", href: "https://fonts.gstatic.com", crossorigin: "" }],
+    ["link", { href: "https://fonts.googleapis.com/css2?family=Stardos+Stencil:wght@400;700&display=swap", rel: "stylesheet" }],
+  ],
 });

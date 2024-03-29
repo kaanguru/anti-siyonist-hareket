@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "Anti-Siyonist Hareket"
+  name: false
   text: "Siyonizim işgaline karşı direniş hareketi"
   tagline: Özgür Filistin!
+  image:
+    src: /img/anti-siyonist-bolge.webp
+    alt: CemKaanGuru
   actions:
     - theme: brand
       text: Boykot Neden Gerekli
