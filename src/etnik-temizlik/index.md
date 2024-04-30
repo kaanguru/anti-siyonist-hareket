@@ -1,4 +1,6 @@
-# Etnik temizliği durdurmak için yapabileceklerimiz:
+# Etnik temizliği durdurmak için yapabileceklerimiz
+
+Cenevre merkezli Avrupa-Akdeniz İnsan Hakları İzleme Örgütü (Euro-Med), İsrail'in ablukası altındaki Gazze'de düzenlenen saldırılarda hayatını kaybedenlerin gömüldüğü 130'dan fazla toplu mezar belgelediklerini bildirdi.
 
 ![Gazze'deki Toplu Mezarlar](/img/04/gazze-toplu-mezaraa-2220549.jpg)
 

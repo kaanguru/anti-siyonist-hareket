@@ -16,5 +16,3 @@
 - [Güney Afrika Uluslararası Adalet Divanı (ICJ) Başvurusu](/pdf/south-africa-court-aplication-en.pdf)
 
 - [THE ISRAEL LOBBY AND U.S. FOREIGN POLICY - John J. Mearsheimer AND Stephen M. Walt](/pdf/the-israel-lobby-and-us-foreign-policy.pdf)
-
-[The Ethnic Cleansing of Palestine - Ilan Pappe](</pdf/TheEthnicCleansingofPalestine-IlanPappe-2017(History)-[Audiobook].torrent>)
