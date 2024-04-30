@@ -1,6 +1,6 @@
 # Etnik temizliği durdurmak için yapabileceklerimiz:
 
-![Gazze'deki Toplu Mezarlar](../public/img/04/gazze-toplu-mezaraa-2220549.jpg)
+![Gazze'deki Toplu Mezarlar](/img/04/gazze-toplu-mezaraa-2220549.jpg)
 
 [Gazze'deki toplu mezarlar ne anlatıyor?](https://www.trthaber.com/haber/dunya/gazzedeki-toplu-mezarlar-ne-anlatiyor-853902.html)
 
@@ -50,7 +50,7 @@ Güney Afrika, İsrail’i, Gazze’de Filistinlilere karşı soykırım yapmakl
 
 ---
 
-[Başvurunun tamamı](../public/pdf/south-africa-court-aplication-en.pdf)'nı okuyun
+[Başvurunun tamamı](/pdf/south-africa-court-aplication-en.pdf)'nı okuyun
 
 ## Sürekli Boykot
 
@@ -58,7 +58,7 @@ Güney Afrika, İsrail’i, Gazze’de Filistinlilere karşı soykırım yapmakl
 
 ## Protesto Gösterileri ve Kampanyalar
 
-![Beyaz saray önü](../public/img/shame-on-media.webp)
+![Beyaz saray önü](/img/shame-on-media.webp)
 
 ABD Başkanı Joe Biden'ın da katıldığı Beyaz Saray Muhabirleri Derneği Yemeği sırasındaki Filistin protestoları.
 
@@ -102,7 +102,7 @@ istasyonu.
 
 **Kaynaklar:**
 
-[YAHUDİ DİASPORASI İLETİŞİM STRATEJİSİ: ABD ÖRNEĞİ](../public/pdf/oemer-yetkin-yahudi-diasporasi-iletisim-stratejisi.pdf)
+[YAHUDİ DİASPORASI İLETİŞİM STRATEJİSİ: ABD ÖRNEĞİ](/pdf/oemer-yetkin-yahudi-diasporasi-iletisim-stratejisi.pdf)
 
 [1] https://www.aa.com.tr/tr/dunya/uzmanlar-guney-afrikanin-israile-karsi-actigi-soykirim-davasindaki-delillerini-guclu-buluyor/3102986
 

@@ -29,7 +29,7 @@ Alışveriş tercihlerimizi yaparken açlıkla yok edilen çocukları düşünd�
 
 ### Troy
 
-![Troy Kart](../public/img/troy-logo-sloganli-01.png)
+![Troy Kart](/img/troy-logo-sloganli-01.png)
 
 Siyonist Visa ve Mastercard alışverişlerimizden komisyon alır, bu komisyonlar siyonizmin ana gelir kaynaklarındandır.
 
