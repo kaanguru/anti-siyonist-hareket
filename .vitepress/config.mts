@@ -14,14 +14,15 @@ export default defineConfig({
     returnToTopLabel: "Yukarı dön",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
-      { text: "Soru ve Cevaplar", link: "/soru-ve-cevaplar" },
       { text: "Belgeler", link: "/belgeler/" },
+      // { text: "Soru ve Cevaplar", link: "/soru-ve-cevaplar" },
     ],
 
     sidebar: [
       {
         text: "Belgeler",
         items: [
+          { text: "İsrail, Mitler ve Terör", link: "/belgeler/israil-mitler-ve-teror" },
           { text: "İslam Deklorasyonu", link: "/belgeler/islam-deklorasyonu" },
           { text: "Amerika'ya Mektup", link: "/belgeler/amerikaya-mektup" },
         ],

@@ -46,4 +46,4 @@ Mesajımızı İslam için canını veren rkadaşianınıza ithaf ediyoruz.
 
 ---
 
-[Tüm Kitap](/pdf/Aliya-İzzetbegoviç-İslam-Deklarasyonu.pdf)
+[Tüm Kitap](/pdf/aliya-izzetbegovic-islam-deklarasyonu.pdf)

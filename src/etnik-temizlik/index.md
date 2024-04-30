@@ -1,8 +1,14 @@
-# Etnik Temizliği Durdur
+# Etnik temizliği durdurmak için yapabileceklerimiz:
 
-Etnik temizliği durdurmak için yapabileceklerimiz:
+![Gazze'deki Toplu Mezarlar](../public/img/04/gazze-toplu-mezaraa-2220549.jpg)
 
-## Terimler
+[Gazze'deki toplu mezarlar ne anlatıyor?](https://www.trthaber.com/haber/dunya/gazzedeki-toplu-mezarlar-ne-anlatiyor-853902.html)
+
+## Bilinçlenme
+
+### Terimlerin Doğrularını öğrenmeliyiz
+
+Yanlış kullanılan terimlerin doğrularını öğrenmeliyiz.
 
 ### Etnik budama örnekleri
 
@@ -59,6 +65,8 @@ ABD Başkanı Joe Biden'ın da katıldığı Beyaz Saray Muhabirleri Derneği Ye
 [Protestoları internette ara](https://duckduckgo.com/?q=filistin+protestolar%C4%B1&t=newext&atb=v423-1&df=w&ia=web)
 
 ### Amerikan üniversitede kampüsleri
+
+<video controls src="/img/04/uni-texas.mp4" title="Title"></video>
 
 Filistin'e destek veren öğrencilerin eylemleri, ABD'deki birçok üniversitede geniş kapsamlı protestolara yol açmıştır. Öğrenciler, üniversitelerin Filistin insan hakları için tavır almasını, savaştan kar eden şirketlerden çekilme taleplerini ve üniversite yatırımları hakkında şeffaflık istemektedir.
 
