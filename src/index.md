@@ -11,18 +11,19 @@ hero:
     alt: CemKaanGuru
   actions:
     - theme: brand
-      text: Boykot Neden Gerekli
+      text: Boykot Neden Gerekli ?
       link: /boykot/
     - theme: alt
-      text: Etnik Temizliği Durdur
+      text: Soykırımı Durdur !
       link: /etnik-temizlik/
 
 features:
-  - title: Adımı bacağıma yaz anne!
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Gazzeli çocuklar ...
+    details: Adımı bacağıma yaz anne! kardeşlerimin de bacaklarına. Bu şekilde birbirimize ait olacağız, sizin çocuklarınız olarak bilineceğiz.
+  - title: Ebu Ebeyde ...
+    details: Savaşlarda sıkça gördüğümüz, ilginç şeylerden biri de; Yiğitlerle çarpışmayı göze alıp tanklarından çıkamayan askerler bebek bezleri kullanıyorlar, özellikle Pampers!
+  - title: Lev Tolstoy ...
+    details: Acı duyabiliyorsan, canlısın. Başkalarının acısını duyabiliyorsan, insansın.
+  - title: Nazım Hikmet ...
+    details: Sen yanmazsan, ben yanmazsam, biz yanmazsak. Nasıl çıkar karanlıklar aydınlığa.
 ---
-

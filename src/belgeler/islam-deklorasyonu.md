@@ -7,11 +7,11 @@ lang: tr-TR
 
 [[toc]]
 
->[!IMPORTANT] HEDEFİMİZ
->Müslümanların İslamlaşması
+> [!IMPORTANT] HEDEFİMİZ
+> Müslümanların İslamlaşması
 
->[!WARNING] SLOGANlMIZ
->İnanmak ve mücadele etmek
+> [!WARNING] SLOGANlMIZ
+> İnanmak ve mücadele etmek
 
 Bugün kamuoyuna sunduğumuz bildiri, yabancılara
 ve şüphe içinde olanlara, İslam'ın şu veya bu sistemin, şu veya bu düşünce grubunun üzerindeki üstünlüğünü ispatlayacak bir metin değildir.
@@ -41,9 +41,9 @@ Mesajımızı İslam için canını veren rkadaşianınıza ithaf ediyoruz.
 
 ---
 
->[!NOTE]Saraybosna, 1970
->Cemaziye'l Evvel, 1390
+> [!NOTE]Saraybosna, 1970
+> Cemaziye'l Evvel, 1390
 
 ---
 
-[Tüm Kitap](</pdf/Aliya İzzetbegoviç - İslam Deklarasyonu.pdf>)
+[Tüm Kitap](/pdf/Aliya-İzzetbegoviç-İslam-Deklarasyonu.pdf)
