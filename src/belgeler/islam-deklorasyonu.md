@@ -41,9 +41,11 @@ Mesajımızı İslam için canını veren rkadaşianınıza ithaf ediyoruz.
 
 ---
 
-> [!NOTE]Saraybosna, 1970
+> [!IMPORTANT]Saraybosna, 1970
 > Cemaziye'l Evvel, 1390
 
 ---
 
 [Tüm Kitap](/pdf/aliya-izzetbegovic-islam-deklarasyonu.pdf)
+
+![gelecegiz](/img/gelecegiz.webp)

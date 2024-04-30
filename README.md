@@ -1,3 +1,5 @@
 # Anti-siyonist hareket
 
-<https://sharingbuttons.io/>
+Siyonizim işgaline karşı direniş hareketi
+
+(https://antisiyonisthar.netlify.app/)

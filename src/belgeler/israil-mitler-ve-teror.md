@@ -13,3 +13,4 @@ hedefleri için Uganda veya Trablusgarb'ı, Kıbrıs veya Arjantin'i, Mozambik v
 ---
 
 [Tüm Kitap](/pdf/roger-garaudy-israil-mitler-ve-teror-pınar-yayınları.pdf)
+![MİTLER VE TERÖR - Roger Garaudy(/pdf/roger-garaudy-israil-mitler-ve-teror-pınar-yayınları.pdf)](/img/israil-mitler.webp)

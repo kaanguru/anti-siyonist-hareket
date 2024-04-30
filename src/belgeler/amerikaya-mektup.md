@@ -189,3 +189,5 @@ Bu bizim Amerikalılara, onların mesajına bir cevap olarak verdiğimiz mesajd�
 ---
 
 [PDF Mektup](/pdf/amerikaya-mektup.pdf)
+
+![gelecegiz](/img/gelecegiz.webp)

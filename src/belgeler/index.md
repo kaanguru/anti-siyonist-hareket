@@ -16,3 +16,5 @@
 - [Güney Afrika Uluslararası Adalet Divanı (ICJ) Başvurusu](/pdf/south-africa-court-aplication-en.pdf)
 
 - [THE ISRAEL LOBBY AND U.S. FOREIGN POLICY - John J. Mearsheimer AND Stephen M. Walt](/pdf/the-israel-lobby-and-us-foreign-policy.pdf)
+
+![MİTLER VE TERÖR - Roger Garaudy](/img/israil-mitler.webp)
