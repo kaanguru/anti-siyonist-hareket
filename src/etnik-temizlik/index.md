@@ -2,7 +2,7 @@
 
 Cenevre merkezli Avrupa-Akdeniz İnsan Hakları İzleme Örgütü (Euro-Med), İsrail'in ablukası altındaki Gazze'de düzenlenen saldırılarda hayatını kaybedenlerin gömüldüğü 130'dan fazla toplu mezar belgelediklerini bildirdi.
 
-![Gazze'deki Toplu Mezarlar](/img/04/gazze-toplu-mezaraa-2220549.jpg)
+![Gazze'deki Toplu Mezarlar](./img/gazze-toplu-mezaraa-2220549.jpg)
 
 [Gazze'deki toplu mezarlar ne anlatıyor?](https://www.trthaber.com/haber/dunya/gazzedeki-toplu-mezarlar-ne-anlatiyor-853902.html)
 
@@ -68,7 +68,7 @@ ABD Başkanı Joe Biden'ın da katıldığı Beyaz Saray Muhabirleri Derneği Ye
 
 ### Amerikan üniversitede kampüsleri
 
-<video controls src="/img/04/uni-texas.mp4" title="Title"></video>
+<video controls src="./img/uni-texas.mp4" title="Title"></video>
 
 Filistin'e destek veren öğrencilerin eylemleri, ABD'deki birçok üniversitede geniş kapsamlı protestolara yol açmıştır. Öğrenciler, üniversitelerin Filistin insan hakları için tavır almasını, savaştan kar eden şirketlerden çekilme taleplerini ve üniversite yatırımları hakkında şeffaflık istemektedir.
 
